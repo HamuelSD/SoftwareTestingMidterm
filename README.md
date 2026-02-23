@@ -13,13 +13,13 @@ The test design documentation, test coverage items (TCIs), and the Test Breaker 
 
 ## Implementation
 
-* **Source Code:** [`src/main/java/EnergyCalculator.java`](src/main/java/EnergyCalculator.java)
-* **Test Suite:** [`src/test/java/EnergyCalculatorTest.java`](src/test/java/EnergyCalculatorTest.java)
+* **Provided Class:** [`src/main/java/EnergyCalculator.java`](src/main/java/EnergyCalculator.java)
+* **Test Class:** [`src/test/java/EnergyCalculatorTest.java`](src/test/java/EnergyCalculatorTest.java)
 * **Test Data:** Parameterized tests are driven by the CSV file located in [`src/test/resources/midterm_tests.CSV`](src/test/resources/midterm_tests.CSV).
 
 ## Automation & Code Coverage
-The test suite is fully automated using Maven. It successfully catches all invalid inputs and achieves **100% Instruction (Statement) Coverage** and **100% Branch Coverage**. 
+The test suite uses. It should successfully catches all invalid inputs and achieve **100% Instruction (Statement) Coverage** and **100% Branch Coverage**. 
 
-Below is the generated JaCoCo Code Coverage report:
+Below is my generated JaCoCo Code Coverage report:
 
 ![JaCoCo Code Coverage Report](<JaCoCo Report.png>)
