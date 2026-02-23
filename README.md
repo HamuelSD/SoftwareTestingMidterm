@@ -21,4 +21,4 @@ The test suite is fully automated using Maven. It successfully catches all inval
 
 Below is the generated JaCoCo Code Coverage report:
 
-![JaCoCo Code Coverage Report](JaCoCo Report.png)
+![JaCoCo Code Coverage Report](<JaCoCo Report.png>)
