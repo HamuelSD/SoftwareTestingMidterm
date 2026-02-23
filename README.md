@@ -9,7 +9,7 @@ The test design documentation, test coverage items (TCIs), and the Test Breaker 
 * **[Test Design & TCIs (LINK)](https://docs.google.com/spreadsheets/d/15Qm7wLU7ggW9hX01KJDmZsnk9v305mCQOB1XBs-CnAE/edit?usp=sharing)**
   * *Contains Equivalence Partitions, Boundary Value Analysis, and the Decision Table, along with my outlined TCIs, and an easy to view tab with my csv formatted tests. I tried my best to follow the example we covered in class from Lab 3.*
 * **[Test Breaker & Fault Analysis (LINK)](https://docs.google.com/document/d/1cQq9cO8ChBGwXKVn7_09hDJju3EiYYD0oAhJF4034qM/edit?usp=sharing)**
-  * *Contains the 5 specified faults demonstrating how different testing methods catch specific bugs. I was unsure if you wanted a full "broken" class, and instead focused on explicit code examples with accompanied explanation in a separate document.*
+  * *Contains the 5 specified faults demonstrating how different testing methods catch specific bugs. I was unsure if you wanted a full "broken" class, and instead focused on explicit code examples with accompanied explanation in a separate document. The examples are in code that is ready to drop into the main java class for testing!*
 
 ## Implementation
 
