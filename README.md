@@ -12,9 +12,10 @@ The test design documentation, test coverage items (TCIs), and the Test Breaker 
   * *Contains the 5 specified faults demonstrating how different testing methods catch specific bugs. I was unsure if you wanted a full "broken" class, and instead focused on explicit code examples with accompanied explanation in a separate document.*
 
 ## Implementation
-* **Source Code:** `src/main/java/EnergyCalculator.java`
-* **Test Suite:** `src/test/java/EnergyCalculatorTest.java`
-* **Test Data:** Parameterized tests are driven by the CSV file located in `src/test/resources/midterm_tests.CSV`.
+
+* **Source Code:** [`src/main/java/EnergyCalculator.java`](src/main/java/EnergyCalculator.java)
+* **Test Suite:** [`src/test/java/EnergyCalculatorTest.java`](src/test/java/EnergyCalculatorTest.java)
+* **Test Data:** Parameterized tests are driven by the CSV file located in [`src/test/resources/midterm_tests.CSV`](src/test/resources/midterm_tests.CSV).
 
 ## Automation & Code Coverage
 The test suite is fully automated using Maven. It successfully catches all invalid inputs and achieves **100% Instruction (Statement) Coverage** and **100% Branch Coverage**. 
